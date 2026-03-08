@@ -1,0 +1,4 @@
+000001₷Salgado, Cjay P.₷College of Computing Education₷BS Information Technology₷1st Year₷c.salgado.569784@umindanao.edu.ph₷Ixm4wBGcVEV0lQCMONTzQA==:Ia1FV9mgLlVnYBeLFLexhk6KMERkrdZzJWfpijZiGls=
+000002₷East, Milkes B.₷College of Computing Education₷BS Computer Science₷1st Year₷m.east.000002@umindanao.edu.ph₷Ixm4wBGcVEV0lQCMONTzQA==:Ia1FV9mgLlVnYBeLFLexhk6KMERkrdZzJWfpijZiGls=
+000003₷Reyes, Mark A.₷College of Engineering Education₷BS Electronics Engineering₷3rd Year₷mark.reyes@example.com₷Ixm4wBGcVEV0lQCMONTzQA==:Ia1FV9mgLlVnYBeLFLexhk6KMERkrdZzJWfpijZiGls=
+000004₷Lopez, Anna M.₷College of Business Administration Education₷BS Business Administration₷4th Year₷anna.lopez@example.com₷Ixm4wBGcVEV0lQCMONTzQA==:Ia1FV9mgLlVnYBeLFLexhk6KMERkrdZzJWfpijZiGls=

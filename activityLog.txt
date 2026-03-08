@@ -1,0 +1,8 @@
+[2026-03-08 21:52:58] [admin1] ADD STUDENT — ID=569784 | Name=Test, Testing T.
+[2026-03-08 22:13:17] [admin1] ADD ADMIN — Username=asd | Privilege=Super Admin
+[2026-03-08 22:23:17] [admin1] ADD ADMIN — Username=admin | Privilege=Super Admin
+[2026-03-08 22:53:48] [admin1] ADD ADMIN — Username=admin1 | Privilege=Admin
+[2026-03-08 23:24:47] [admin1] ADD STUDENT — ID=asd | Name=asd | College=College of Computing Education | Program=BS Computer Science | Year=1st Year
+[2026-03-08 23:25:02] [admin1] ADD STUDENT — ID=sss | Name=asd | College=College of Arts and Sciences Education | Program=BA Communication | Year=1st Year
+[2026-03-08 23:25:09] [admin1] DELETE STUDENT — ID=asd | Name=asd
+[2026-03-08 23:25:13] [admin1] DELETE STUDENT — ID=sss | Name=asd

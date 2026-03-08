@@ -1,0 +1,6 @@
+[2026-03-08 23:16:02] [admin1] ADD STUDENT — ID=569222 | Name=Doe, John D.
+[2026-03-08 23:16:13] [admin1] EDIT STUDENT — ID=569222 | OldName=Doe, John D. | NewName=Doe, John D. | PasswordChanged=YES
+[2026-03-08 23:26:36] [admin1] ADD STUDENT — ID=asd | Name=asd | College=College of Business Administration Education | Program=BS Business Administration - Marketing Management | Year=1st Year
+[2026-03-08 23:29:21] [admin1] ADD STUDENT — ID=569784 | Name=Salgado, Cjay | College=College of Computing Education | Program=BS Information Technology | Year=4th Year
+[2026-03-08 23:30:18] [admin1] ADD STUDENT — ID=569785 | Name=Tan, Shihu X. | College=College of Architecture and Fine Arts Education | Program=BS Interior Design | Year=3rd Year
+[2026-03-08 23:33:13] [admin1] ADD ADMIN — Username=UM_Matina_admin1 | Privilege=Super Admin

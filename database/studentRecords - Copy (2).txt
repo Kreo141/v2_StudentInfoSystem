@@ -1,0 +1,12 @@
+569784,Salgado Cjay,c.salgado569@example.com,BS Information Technology,College of Computing Education,pass123
+569785,Santos Maria,m.santos785@example.com,BS Computer Science,College of Computing Education,pass234
+569786,Cruz John,j.cruz786@example.com,BS Information Systems,College of Computing Education,pass345
+569787,Reyes Angela,a.reyes787@example.com,BS Information Technology,College of Computing Education,pass456
+569788,Gonzales Mark,m.gonzales788@example.com,BS Computer Science,College of Computing Education,pass567
+569789,Ramos Claire,c.ramos789@example.com,BS Information Systems,College of Computing Education,pass678
+569790,Bautista Carlo,c.bautista790@example.com,BS Information Technology,College of Computing Education,pass789
+569791,Domingo Lea,l.domingo791@example.com,BS Computer Science,College of Computing Education,pass890
+569792,Fernandez Kyle,k.fernandez792@example.com,BS Information Systems,College of Computing Education,pass901
+569793,Navarro Anne,a.navarro793@example.com,BS Information Technology,College of Computing Education,pass012
+569794,Mendoza Paul,p.mendoza794@example.com,BS Computer Science,College of Computing Education,pass111
+569795,Garcia Liza,l.garcia795@example.com,BS Information Systems,College of Computing Education,pass222
