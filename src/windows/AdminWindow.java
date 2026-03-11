@@ -366,7 +366,7 @@ public class AdminWindow extends JFrame {
         JComboBox<String> programBox = new JComboBox<>();
         JComboBox<String> yearBox    = new JComboBox<>(YEAR_LEVELS);
 
-        // pre-select current college and populate programs
+        // pre-select current college
         int collegeIdx = 0;
         for (int i = 0; i < COLLEGES.length; i++) {
             if (COLLEGES[i].equals(curCollege)) { collegeIdx = i; break; }
@@ -692,7 +692,6 @@ public class AdminWindow extends JFrame {
     }
 
     // file i/o — admins — format: username|privilege|hashedPassword
-
     private void loadAdminsFromFile() {
         try (BufferedReader r = new BufferedReader(new FileReader(ADMIN_FILE))) {
             String line;

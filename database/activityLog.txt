@@ -4,3 +4,17 @@
 [2026-03-08 23:29:21] [admin1] ADD STUDENT — ID=569784 | Name=Salgado, Cjay | College=College of Computing Education | Program=BS Information Technology | Year=4th Year
 [2026-03-08 23:30:18] [admin1] ADD STUDENT — ID=569785 | Name=Tan, Shihu X. | College=College of Architecture and Fine Arts Education | Program=BS Interior Design | Year=3rd Year
 [2026-03-08 23:33:13] [admin1] ADD ADMIN — Username=UM_Matina_admin1 | Privilege=Super Admin
+[2026-03-09 14:08:27] [admin] ADD ADMIN — Username=UM_Matina_admin2 | Privilege=Super Admin
+[2026-03-09 14:09:42] [admin] ADD ADMIN — Username=UM_Matina_admin_a1 | Privilege=Admin
+[2026-03-09 14:09:56] [admin] ADD ADMIN — Username=testadmin | Privilege=Admin
+[2026-03-09 14:10:14] [admin] ADD ADMIN — Username=adMinUmindanao | Privilege=Admin
+[2026-03-09 14:10:27] [admin] ADD ADMIN — Username=testingAdmin | Privilege=Super Admin
+[2026-03-09 14:10:47] [admin] ADD ADMIN — Username=UM_Bolton_admin1 | Privilege=Admin
+[2026-03-09 14:10:56] [admin] ADD ADMIN — Username=UM_Bolton_superadmin | Privilege=Super Admin
+[2026-03-11 16:01:38] [admin] ADD STUDENT — ID=378243 | Name=Salgado, Cjay P. | College=College of Computing Education | Program=BS Computer Science | Year=4th Year
+[2026-03-11 16:04:41] [admin] ADD ADMIN — Username=adminNew | Privilege=Admin
+[2026-03-11 16:17:51] [admin] ADD STUDENT — ID=47382 | Name=Doe, John D. | College=College of Architecture and Fine Arts Education | Program=BS Interior Design | Year=2nd Year
+[2026-03-11 16:21:00] [admin] EDIT STUDENT — ID=569835 | OldName=Go, Kevin | NewName=Go, Kevin M. | College=College of Computing Education | Program=BS Computer Science | Year=4th Year | PasswordChanged=YES
+[2026-03-11 16:21:47] [admin] DELETE STUDENT — ID=569816 | Name=Bernardo, Hannah
+[2026-03-11 16:23:38] [admin] ADD ADMIN — Username=newAdmin | Privilege=Admin
+[2026-03-11 16:24:10] [admin] EDIT ADMIN — OldUsername=testingAdmin | NewUsername=testingAdmin | Privilege=Admin

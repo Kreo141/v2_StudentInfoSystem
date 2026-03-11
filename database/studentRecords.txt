@@ -1,5 +1,5 @@
 569784|Salgado, Cjay|c.salgado.569784@umindanao.edu.ph|BS Information Technology|College of Computing Education|4th Year|r8EDQUMbKmTTxvstgcZNnA==:Zw2CJeUk1ggagR9re3XTdfGyvgpkEEZxYZxrQBNMtsQ=
-569785|Tan, Shihu X.|test@example.com|BS Interior Design|College of Architecture and Fine Arts Education|3rd Year|Yv4Ehi7FR0Y/QmGciYDsHA==:VncbspB7Y8M1w+NrbLYvDbuJjCE3QTPganrRj7tqC6k=
+569785|Tan, Shihu X.|test@example.com|BS Interior Design|College of Architecture and Fine Arts Education|3rd Year|Vi0yqXpZEqJckPpAMXWYaA==:BI7YkWgvFxC9KGWh4WBz1QZY4OGq9pcEwMB4wCs+ITM=
 569786|Dela Cruz, Maria|m.delacruz.569786@umindanao.edu.ph|BS Information Technology|College of Computing Education|1st Year|hashSalt==:hashValue=
 569787|Reyes, John Paul|j.reyes.569787@umindanao.edu.ph|BS Computer Science|College of Computing Education|2nd Year|hashSalt==:hashValue=
 569788|Santos, Angela|a.santos.569788@umindanao.edu.ph|BS Information Systems|College of Computing Education|3rd Year|hashSalt==:hashValue=
@@ -30,7 +30,6 @@
 569813|Alvarez, Joseph|j.alvarez.569813@umindanao.edu.ph|BS Information Systems|College of Computing Education|4th Year|hashSalt==:hashValue=
 569814|Cabrera, Sheila|s.cabrera.569814@umindanao.edu.ph|BS Interior Design|College of Architecture and Fine Arts Education|1st Year|hashSalt==:hashValue=
 569815|De Guzman, Marco|m.deguzman.569815@umindanao.edu.ph|BS Computer Science|College of Computing Education|2nd Year|hashSalt==:hashValue=
-569816|Bernardo, Hannah|h.bernardo.569816@umindanao.edu.ph|BS Information Technology|College of Computing Education|3rd Year|hashSalt==:hashValue=
 569817|Velasco, Kurt|k.velasco.569817@umindanao.edu.ph|BS Information Systems|College of Computing Education|4th Year|hashSalt==:hashValue=
 569818|Natividad, Claire|c.natividad.569818@umindanao.edu.ph|BS Interior Design|College of Architecture and Fine Arts Education|1st Year|hashSalt==:hashValue=
 569819|Arellano, Vincent|v.arellano.569819@umindanao.edu.ph|BS Computer Science|College of Computing Education|2nd Year|hashSalt==:hashValue=
@@ -49,4 +48,6 @@
 569832|Yu, Natalie|n.yu.569832@umindanao.edu.ph|BS Information Technology|College of Computing Education|3rd Year|hashSalt==:hashValue=
 569833|Ong, Patrick|p.ong.569833@umindanao.edu.ph|BS Information Systems|College of Computing Education|4th Year|hashSalt==:hashValue=
 569834|Tan, Shiela|s.tan.569834@umindanao.edu.ph|BS Interior Design|College of Architecture and Fine Arts Education|1st Year|hashSalt==:hashValue=
-569835|Go, Kevin|k.go.569835@umindanao.edu.ph|BS Computer Science|College of Computing Education|2nd Year|hashSalt==:hashValue=
+569835|Go, Kevin M.|k.go.569835@umindanao.edu.ph|BS Computer Science|College of Computing Education|4th Year|ONTGs84yQmdL+VVz2A2jEg==:/Gwx/d9pOZqN6n8mOiPcYVMKFcaI7lKUnIRHoWDy1N4=
+378243|Salgado, Cjay P.|test@example.com|BS Computer Science|College of Computing Education|4th Year|Vi0yqXpZEqJckPpAMXWYaA==:BI7YkWgvFxC9KGWh4WBz1QZY4OGq9pcEwMB4wCs+ITM=
+47382|Doe, John D.|idk@email.com|BS Interior Design|College of Architecture and Fine Arts Education|2nd Year|yPpi9J5mYCTh16qewROjuw==:r4wz+Bw9hbXCGNWsOPJfT7fTzwKYvfaoWX1fD0+IB+s=
